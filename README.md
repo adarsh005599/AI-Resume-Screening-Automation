@@ -21,10 +21,9 @@
 No manual downloading, copy-pasting, or reading resumes one by one. Just connect your inbox and let the pipeline run.
 
 <div align="center">
-<img src="screenshots/Workflow.png" alt="Workflow Overview" width="90%">
+<img src="screenshots/demo.gif" alt="Workflow Demo" width="90%">
 </div>
 
----
 
 ## ⚙️ How It Works
 
